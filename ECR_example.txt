@@ -1,0 +1,496 @@
+%%%%%%%%%%NEW-RECORD%%%%%%%%%% "Discharge summary" "Report"
+13599,2398,138345,2189-04-03,,,"Discharge summary","Report",,,"Admission Date:  [**2189-4-1**]       Discharge Date:  [**2189-4-3**]
+
+Date of Birth:   [**2131-8-12**]       Sex:  M
+
+Service:
+
+HISTORY OF PRESENT ILLNESS:   Mr. [**Known lastname 10840**] is a 57 year old
+gentleman with a past medical history of Parkinson's Disease,
+depression, anxiety, seizure disorder, coronary artery
+disease status post inferior myocardial infarction, who was
+found to be confused and walking in the streets disoriented
+on the evening of the 14th.  EMS was called and he was
+brought to [**Hospital1 69**] where he had
+an altered mental status.  In the Emergency Department, he
+was found to have an [**Hospital1 **] CK to 5,000, negative MB
+fraction of less than 1% with a positive [**Hospital1 **] up to 20.
+He had no EKG changes, however, he did have evidence of an
+inferior myocardial infarction with Qs in the inferior leads
+with a tall R wave in V2 consistent with a posterior
+involvement.
+
+The patient also had a bedside echocardiogram in the
+Emergency Department which showed an ejection fraction of
+approximately 30% with left ventricular dilation and global
+left ventricular dysfunction, one plus aortic regurgitation,
+three plus mitral regurgitation.  The patient was found to
+have a white count [**Hospital1 **] to 17.4, being afebrile and an
+anion gap was 17 with ketones in his urine.  He had a
+negative head CT scan.  He had an lumbar puncture with 560
+red blood cells in tube four, 470 in tube one, one white
+blood cell, protein 49, glucose 70, no PMNs, no organisms on
+Gram stain.
+
+The patient initially received a dose of Ceftriaxone,
+Acyclovir and Vancomycin.  The patient had a follow-up MRI /
+MRA with no abnormalities.
+
+The Cardiology Team was consulted and did not feel that the
+patient was having an acute event that required cardiac
+catheterization at the time of admission, and that the
+patient's neurological mental status was more important as an
+acute issue.  They recommended medical management.
+
+The patient was started on aspirin, beta blocker, ACE
+inhibitor and a statin.  Neurosurgery was consulted regarding
+the red blood cells in the lumbar puncture tube.  They
+recommended an MRI which showed no acute bleed or acute
+parenchymal process.
+
+Over the patient's Emergency Department course, the patient's
+mental status improved.  He was alert and oriented times
+three.  He did not recall the events of the day of admission.
+He said he has been under a lot of stress with his car being
+stolen last week.  He also reported running out of his
+medicines and not taking them.
+
+He reports having dreams that are like seizure-like events in
+the evening.  He does not recall when his last seizure was
+except for this ""seizure events"".
+
+PAST MEDICAL HISTORY:
+1.  History of seizure disorder.
+2.  Parkinson's Disease.
+3.  Coronary artery disease.
+4.  Depression.
+5.  Anxiety / post-traumatic stress disorder.
+
+ALLERGIES:   No known drug allergies.
+
+MEDICATIONS AS AN OUTPATIENT:
+1.  Lamictal 150 twice a day.
+2.  Venlafaxine.
+3.  Klonopin 1 twice a day.
+4.  Lorazepam 1 q. h.s.
+5.  Sinemet 25/100 three times a day.
+6.  Sinemet CR 50/200, one tablet four times a day.
+7.  Mirapex one three times a day.
+8.  He had a history of taking Metoprolol 25 twice a day,
+although according to his primary care physician who was
+consulted, she said that he was noncompliant.
+
+SOCIAL HISTORY:   The patient lives alone.  He had been a
+mail carrier until a car accident.  He was in a motorcycle
+accident in [**2187-6-20**].  Since then, he has been on
+disability.  Parkinson's for six years.  Care in the VA
+system with Dr. [**Last Name (STitle) 41058**] at the [**Hospital1 1559**] VA as the patient's
+primary care physician.
+
+PHYSICAL EXAMINATION:   On presentation, temperature 98.0 F.;
+pulse 96; blood pressure 133/60; respiratory rate 20;
+saturation of 100% on room air.  He was alert and oriented
+times three, disheveled.  Pupils are equal, round, and
+reactive to light and accommodation.  Extraocular muscles are
+intact.   Anicteric sclerae.  No lymphadenopathy, no jugular
+venous distention.  No bruit.  Clear to auscultation
+bilaterally.  He has no wheezes, rales or rhonchi.  Heart is
+S1, S2, regular rate and rhythm, no murmurs, rubs or gallops.
+Abdomen was nontender, nondistended, soft, with active bowel
+sounds.  He had no cyanosis, clubbing or edema.  Cranial
+nerves II through XII were intact.  He had a pill rolling
+tremor at baseline with increased cogwheel rigidity.
+
+LABORATORY DATA:  On admission, white blood cell count was
+17.4, and this was decreased to 12 on the day of discharge.
+Hematocrit was 39 at admission; 31.7 on the day of discharge.
+Platelets were 259 at date of admission and 208 on the date
+of discharge
+
+Sodium 137, potassium 4.6, chloride 101, bicarbonate 19 with
+a gap of 17.  BUN 36, creatinine 1.0.  These were all
+admission labs on the day of discharge.
+
+The patient's creatinine was down to 0.8, BUN down to 18,
+anion gap was down to 7.  When the patient presented, he had
+ketones in his urine.  His toxicology screen was negative for
+alcohol and all other substances.
+
+His glucose was within normal limits.  His calcium was 8.8,
+magnesium 2.0, phosphorus 3.1, lactate was 1.0.
+
+When he presented, CK 5,712; on the day of discharge, this
+was down to 1900.  On admission his MB index was less than
+1.0, his [**Hospital1 **] was 20 at admission.  His MB index is 0.5
+on the date of discharge, and his [**Hospital1 **] was 6 on the date
+of discharge.
+
+Albumin 3.7, total cholesterol 201, triglycerides 48, HDL 45,
+LDL 146, B12 331, folate 5.5, TSH 1.8.  The patient's
+Lamictal level is pending.
+
+The patient's EKG shows sinus tachycardia on admission, left
+axis deviation, left ventricular hypertrophy as per AVL
+greater than 11 millimeters.  He has Q waves in the inferior
+leads and a tall R in V2 consistent with an old inferior
+posterior myocardial infarction.
+
+HOSPITAL COURSE BY PROBLEM:
+1.  This is a 57 year old male who presents with delta MS
+[**First Name (Titles) **] [**Last Name (Titles) **], [**Last Name (Titles) **] CKs with flat MB index.  For
+delta MS [**First Name (Titles) **] [**Last Name (Titles) 41059**] includes post-ictal state status
+post seizure.  The patient mentions having events at night
+that were consistent with seizures but he was not sure if
+they were dreams or he was dreaming about having seizures, or
+actually having seizures.  Delirium secondary to alcohol
+withdrawal, but his tox screen was negative, although the
+ketones in his urine and the anion gap were within normal
+limits, glucose is suggestive of alcoholic ketosis; possible
+encephalitis but the patient's lumbar puncture and MRI/MRA
+were not consistent with this; secondary to psychiatric
+manifestations of his neurological disorder.  The patient
+carries a diagnosis of Parkinson's and possibly could have
+[**Last Name (un) 309**] body involvement.  Neurology was consulted and was
+following the patient.
+
+An EEG was ordered but the patient refused to participate in
+the EEG as it would involve the removal of his hairpiece.
+
+The patient was continued on his Lamictal 150 twice a day on
+his Sinemet 25/100 three times a day, Sinemet CR 50/200 four
+times a day, Mirapex one three times a day.  He was also
+continued on his venlafaxine and received ativan as well
+p.r.n. for agitation.
+
+Psychiatric saw the patient and generally thought his picture
+was one of resolving delirium.  His mental status has
+gradually improved during his course, although he does have
+episodes of confabulation, flat affect and poor insight into
+his overall medical condition.  The patient has threatened to
+leave against medical advice multiple times during the
+hospitalization.
+
+Psychiatric has seen him and felt that he is unable at
+different times to have insight and weigh the pros and
+consequences of his leaving the hospital against medical
+advice at the current time.
+
+2.  [**Last Name (un) **] [**Last Name (un) **]:  Due to the high [**Last Name (un) **] at 20, the
+patient denies any chest pain and no EKG changes.  The
+patient either had a silent non-ST elevation myocardial
+infarction or demand ischemia possibly secondary to
+arrhythmia that may have lead to the patient being down.  The
+[**Last Name (un) **] CKs are consistent with rhabdomyolysis not secondary
+to a large ST elevation myocardial infarction as the MB index
+was negative.  The patient was placed on beta blocker, 37.5
+three times a day, aspirin 81 q. day; ACE inhibitor 12.5
+three times a day of Captopril and 10 q. day of Lipitor.
+
+The patient had an echocardiogram repeated at the bedside.
+Ejection fraction was less or equal to 25%.  Right atrium
+mildly dilated and left atrium mildly dilated.  Left
+ventricular cavity mildly dilated.  Severe global left
+ventricular hypertrophy, overall systolic left function
+severely depressed.  Right ventricular chamber size is
+normal.  Right ventricular systolic function appears
+depressed.  The aortic root is normal in diameter.  Four plus
+mitral regurgitation, trivial tricuspid regurgitation, and
+trace aortic regurgitation.
+
+3.  ANION GAP ACIDOSIS:  Secondary to ketones, alcohol,
+starvation.  The patient's anion gap resolved after
+hydration.
+
+4.  LEUKOCYTOSIS:  The patient was afebrile with no evidence
+of fever.  On his hospital stay, blood cultures, urine
+cultures, sputum cultures were negative.  Chest x-ray showed
+no evidence of congestive heart failure or pneumonia.  White
+count decreased to 12 and no evidence of infection.
+
+5.  NUTRITION:  The patient received intravenous fluids
+secondary to rhabdomyolysis and his anion gap.  As both of
+these resolved, the fluids were discontinued.  The patient
+was taking p.o. with a cardiac heart healthy diet and low
+sodium.
+
+6.  PROPHYLAXIS:  The patient was initially on Pneumoboots
+and subcutaneous heparin and then was ambulating and
+requiring these discontinued.  Taking p.o. and not requiring
+any gastrointestinal prophylaxis.
+
+He is full code.
+
+DISCHARGE DIAGNOSES:
+1.  Change in mental status, delirium.
+2.  Myocardial infarction.
+3.  Coronary artery disease.
+4.  Hyperlipidemia.
+5.  Hypertension.
+6.  Parkinson's.
+7.  Seizure disorder.
+8.  Post-traumatic stress disorder.
+9.  Anxiety.
+
+DISCHARGE MEDICATIONS:
+1.  Cardiolevodopa CR 50/200, one tablet p.o. four times a
+day.
+2.  Lipitor 10 mg p.o. q. day.
+3.  Captopril 12.5 mg p.o. three times a day.
+4.  Lorazepam 1 mg p.o. three times a day.
+5.  Metoprolol 37.5 mg p.o. three times a day.
+6.  Aspirin 81 mg p.o. q. day.
+7.  Lamotrigine 150 mg p.o. twice a day.
+8.  Mirapex 1 mg p.o. three times a day.
+9.  Venlafaxine 450 mg p.o. three times a day.
+10. Cardiolevodopa 25/100, one tablet p.o. three times a day.
+11. Folic acid 1 mg intravenously q. day.
+12. Thiamine 100 mg intravenously q. day.
+13. Acetaminophen 325 to 650 mg p.o. q. four to six hours
+p.r.n.
+
+
+
+                     DR.[**Last Name (STitle) **],[**First Name3 (LF) 7853**] C. 12-869
+
+Dictated By:[**Dictator Info **]
+MEDQUIST36
+
+D:  [**2189-4-3**]  14:33
+T:  [**2189-4-3**]  18:38
+JOB#:  [**Job Number 41060**]
+"
+
+%%%%%%%%%%NEW-RECORD%%%%%%%%%% "Discharge summary" "Report"
+13600,2398,138345,2189-04-15,,,"Discharge summary","Report",,,"Admission Date:  [**2189-4-1**]       Discharge Date:  [**2189-4-15**]
+
+Date of Birth:   [**2131-8-12**]       Sex:  M
+
+Service:  Cardiothoracic Surgery
+
+HISTORY OF PRESENT ILLNESS:  This is a 57-year-old male with
+a history of seizure disorder and coronary artery disease,
+who was brought into the [**Hospital1 69**]
+Emergency Room on [**2189-4-1**] secondary to confusion.
+Patient was reportedly found on the street in a confused and
+disoriented state by emergency medical technicians and
+subsequently brought to [**Hospital1 69**]
+for further evaluation and management.  In the Emergency
+Department, the patient was noted to be disoriented and
+confused with a CPK of 5712 and a [**Hospital1 **] of 20.
+
+Patient's electrocardiogram demonstrated sinus tachycardia at
+112, inferior lead Q waves, and mild ST depression in lead
+V5.  In addition, the patient was noted to have an [**Hospital1 **]
+white blood cell count of 17.4, but was noted to be afebrile
+and hemodynamically stable.  The patient continued to have
+waxing and [**Doctor Last Name 688**] mental status in the Emergency Department,
+after which point he received head CT scan which was negative
+and a lumbar puncture which demonstrated 560 red blood cells
+and 1 white blood cell.  Due to the patient's [**Doctor Last Name **] CK and
+[**Doctor Last Name **], Cardiology consult was obtained in the Emergency
+Department.
+
+A bedside echocardiogram was performed, which demonstrated
+hypokinesis with an ejection fraction of approximately 30%
+and 2+ mitral regurgitation.  Initial Cardiology
+recommendations advised conservative management with a beta
+blocker, but no Heparinization given the patient's lumbar
+puncture results.
+
+While in the Emergency Department, the patient's mental
+status was noted to improve gradually.  Although the patient
+reported having no memory of the days events, he did report
+being under a fair amount of increased stress over the past
+several days secondary to his car being stolen and him
+running out of his standard home medications.  The patient
+was subsequently admitted to the Medical Intensive Care Unit
+team for further evaluation and management.
+
+PAST MEDICAL HISTORY:
+1. Seizure disorder.
+2. Parkinson's.
+3. Coronary artery disease.
+4. Depression.
+5. Anxiety.
+
+HOME MEDICATIONS:
+1. Carbidopa/levodopa.
+2. Effexor.
+3. ............
+4. Klonopin.
+5. Metoprolol.
+6. Diclofenac.
+7. Lamictal.
+8. Lorazepam.
+
+ALLERGIES:  No known drug allergies.
+
+SOCIAL HISTORY:  Lives alone.  Works as a postal worker.
+Reports a remote history of alcohol abuse, but states the
+last drink was in [**2170**].  Denies any other history of drug
+abuse.
+
+HOSPITAL COURSE:  The patient was admitted to the Medical
+Intensive Care Unit team under the direction of Dr. [**First Name8 (NamePattern2) **]
+[**Name (STitle) **] on [**2189-4-2**].  Given the patient's
+presenting symptoms and his lumbar puncture results, a
+neurosurgical consult was obtained and the patient was
+referred for head MRI/MRA which subsequently demonstrated no
+gross structural abnormalities and no evidence of infarction
+or intracranial enhancement.
+
+Over the course of the hospital day #1, the patient's mental
+status was noted to improve tremendously, and the patient was
+noted to be fully oriented to person, place, and time.  The
+patient subsequently stated that he would like to be
+discharged immediately; however, following discussions with
+case management and primary team, the patient was convinced
+to remain in-house for the duration of his medical workup.
+
+Given the patient's negative head scan and markedly improved
+mental status with little intervention, the leading diagnosis
+for his acute mental status change was believed to be a
+postictal state.  The patient was subsequently restarted on
+his outpatient seizure and Parkinson's medications to good
+effect.  In addition, a Psychiatry consultation was obtained
+who deemed the patient mentally competent, but described him
+as exhibiting impaired judgement from his recently altered
+mental status.  The patient was subsequently advised to
+remain on an one-to-one sitter for risk of elopement, and
+Ativan standing dosage was recommended given the potential
+for the patient to go into benzodiazepine withdrawal.
+
+The patient continued to progress well clinically through
+hospital day #2, at which point he was cleared for transfer
+to the regular medical floor, and was admitted to the [**Hospital **]
+Medical Service.  While on the floor, the patient
+demonstrated several episodes of acute shortness of breath
+and tachypnea subsequently ascribed to transient panic
+attacks that the patient stated were consistent with his
+normal baseline.
+
+On [**2189-4-3**], the patient underwent a repeat
+echocardiogram, which demonstrated severe global left
+ventricular hypokinesis with an estimated ejection fraction
+of 25% and 4% mitral regurgitation.  The patient subsequently
+recommended for a cardiac catheterization, which he underwent
+on [**2189-4-6**], which subsequently demonstrated three vessel
+coronary artery disease with 70% proximal irregular stenosis
+of the left anterior descending artery, total occlusion of
+the circumflex, and total occlusion of the proximal right
+coronary artery.  In addition, the patient's cardiac
+catheterization demonstrated moderate right ventricular
+diastolic dysfunction, severe left ventricular diastolic
+dysfunction, moderate primary pulmonary hypertension, and a
+depressed cardiac index of 1.8.
+
+Given these findings, a Cardiac Surgery consultation was
+obtained.  Following a discussion of the relative risks and
+benefits of surgical intervention, the patient subsequently
+consented to undergo a coronary artery bypass graft and
+mitral valve repair to take place on [**2189-4-8**].  On [**2189-4-8**], the patient therefore underwent a coronary artery
+bypass graft using anastomosis from the LIMA to the LAD, and
+a mitral annuloplasty using a 28 mm [**Doctor Last Name 405**] ring.  In
+addition, an intra-aortic balloon pump was inserted via the
+patient's right femoral artery.  The patient tolerated the
+procedure well with a bypass time of 122 minutes and a
+cross-clamp time of 79 minutes.
+
+Patient's pericardium was left open; lines placed included an
+arterial line, Swan-Ganz catheter, CVP catheter, and IAVP;
+both ventricular and atrial wires were placed; mediastinal
+and right and left pleural tubes were placed
+intraoperatively.  The patient was subsequently transferred
+to the CSRU, intubated, further evaluation and management.
+On transfer, the patient's mean arterial pressure was 80, his
+CVP was 19, his ......... was 15 and his [**Doctor First Name 1052**] was 25.  The
+patient was A-V paced at a rate of 100 beats per minute.
+Drips on transfer included milrinone, epi, and propofol.
+
+In the CSRU, the patient's IAVP remained in place through
+postoperative day #2, at which point it was removed without
+complication.  The patient demonstrated a gradual respiratory
+wean, and was finally successfully extubated on postoperative
+day #3 without complication.  Patient was subsequently
+advanced to regular oral intake, which he tolerated well
+through the duration of his stay.
+
+On postoperative day #4, the patient's PA catheter, pacer
+wires, and chest tube were removed without complication, and
+on postoperative day #5, the patient was cleared for transfer
+to the floor.  The patient was subsequently admitted to the
+Cardiothoracic Service in the direction of Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 1537**].
+
+On the floor, the patient progressed well clinically through
+the time of his discharge.  Physical Therapy consultation was
+obtained, and the patient was cleared for discharge to home
+following resolution of his acute medical issues.  The
+patient demonstrated several additional episodes of anxiety
+attacks through the course of his time on the regular patient
+floor, all of which responded well to Ativan administration.
+Patient's Foley catheter was subsequently removed without
+complication.  He was noted to ............... productive of
+urine for the duration of his stay.
+
+On postoperative day #6, a routine chest radiograph
+demonstrated evidence of a left basilar infiltrate versus
+atelectasis; the patient was subsequently begun on
+levofloxacin for a 10 day course to be completed as an
+outpatient.
+
+On postoperative day #8, [**2189-4-15**], the patient was
+cleared by Physical Therapy, full independent ambulation.
+Although Physical Therapy stated that patient would be likely
+benefit from short rehab stay, the patient clearly stated his
+preference to return home.  Patient was subsequently cleared
+for discharge to home with home VNA services and home
+Physical Therapy on postoperative day #7, [**2189-4-15**].
+
+CONDITION ON DISCHARGE:  Patient is to be discharged to home
+with services.
+
+DISCHARGE STATUS:  Stable.
+
+DISCHARGE MEDICATIONS:
+1. Percocet 1-2 tablets po q4-6h prn.
+2. Colace 100 mg po bid.
+3. Lamotrigine 115 mg po bid.
+4. Lopressor 25 mg po bid.
+5. Carbidopa/levodopa 25/100 one tablet po tid.
+6. Clonidine 0.1 mg po tid.
+7. Captopril 6.25 mg po tid.
+8. Potassium chloride 20 mEq po bid x10 days.
+9. Levofloxacin 500 mg po q day x7 days.
+10. Lasix 20 mg po bid x10 days.
+11. Venlafaxine 150 mg po q day.
+12. Pramipexole dihydrochloride 1 mg tablet po tid.
+13. Lorazepam 0.5 mg po q4-6h prn.
+
+DISCHARGE INSTRUCTIONS:  Patient is to maintain his incisions
+clean and dry at all times.  The patient may shower, but
+should pat dry incisions afterwards; no bathing or swimming
+until further notice.  The patient has been advised to limit
+his physical activity, no heavy exertion.  The patient has
+been advised to observe a cardiac diet.  No driving while
+taking prescription pain medications.  The patient is to
+receive home VNA services for regular wound checks, and home
+physical therapy for strength and endurance training.  The
+patient is to followup with the provider of his choice at his
+local [**Hospital **] Hospital within 1-2 weeks following discharge.
+Patient is to followup with Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 1537**] four weeks
+following discharge; the patient is to call to schedule his
+appointment.
+
+
+
+
+                            [**First Name11 (Name Pattern1) 275**] [**Last Name (NamePattern4) 1539**], M.D.  [**MD Number(1) 1540**]
+
+Dictated By:[**Last Name (NamePattern1) 1053**]
+MEDQUIST36
+
+D:  [**2189-4-16**]  01:20
+T:  [**2189-4-16**]  05:46
+JOB#:  [**Job Number 41061**]
+"
+
